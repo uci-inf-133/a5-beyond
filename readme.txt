@@ -26,5 +26,5 @@
 
 
 
-6. Did you implement any extra credit options? If so, which ones? If you put extra effort to make your app compelling, please describe what you implemented.
+6. Did you implement any extra credit options? If so, which ones?
 
