@@ -4,10 +4,9 @@
 
 */10
 - */1 The ability to display or speak the current local time
-- */2 The ability to convert the current local time to another time zone
-- */2 The ability to convert an arbitrary time to another time zone
+- */3 The ability to convert the current local time to another time zone
 - */1 A demo video demonstrating these features
-- */4 Answers to questions about how the framework supports implementation
+- */5 Answers to questions about how the framework supports implementation
 - */0 Any extra credit options implemented
 
 2. How long, in hours, did it take you to complete this assignment?
