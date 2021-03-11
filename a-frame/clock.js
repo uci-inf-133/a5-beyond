@@ -22,6 +22,8 @@ AFRAME.registerComponent("clock", {
   },
 });
 
+var now = spacetime.now();
+
 console.log("It is currently " + displayTime(now) + " locally");
 console.log(
   "It is currently " +
