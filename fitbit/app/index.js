@@ -1,5 +1,5 @@
 import * as messaging from 'messaging';
-import document from "document";
+import * as document from "document";
 
 //Get the clock element defined in resources/index.view and set its text
 const clock = document.getElementById("clock");
