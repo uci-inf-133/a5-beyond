@@ -29,7 +29,7 @@ const LookupTimeNowApiHandler = {
   async handle(handlerInput) {
     //Timezone code source: https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2019/07/getting-started-with-cake-time-using-the-alexa-settings-api-to-look-up-the-device-time-zone
 
-    // TODO get timezone of the device dynamically
+    // TODO get timezone of the device
     let userTimeZone = "America/Los_Angeles";
 
     console.log("userTimeZone is " + userTimeZone);
